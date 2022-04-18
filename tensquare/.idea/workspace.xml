@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="39753e2d-3721-4a6a-ae68-bc70f2e34aae" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="27YtbcuFmXIQZPJEiYMQRIgf8d6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MyProject2" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\tensquare\tensquare_base\src\main\resources" />
+      <recent name="D:\tensquare" />
+      <recent name="D:\tensquare\tensquare_spit" />
+      <recent name="D:\tensquare\tensquare_common\src\main\java\until" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpitApplication">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="tensquare_common" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BaseApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tensquare.base.BaseApplication" />
+      <module name="tensquare_base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tensquare.base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpitApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tensquare.spit.SpitApplication" />
+      <module name="tensquare_spit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tensquare.spit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="tensquare_eureka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tensquare.eureka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tensquare.eureka.EurekaServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpitApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="tensquare_spit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tensquare.spit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tensquare.spit.SpitApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SpitApplication" />
+        <item itemvalue="Application.SpitApplication" />
+        <item itemvalue="Spring Boot.EurekaServer" />
+        <item itemvalue="Application.BaseApplication" />
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39753e2d-3721-4a6a-ae68-bc70f2e34aae" name="Default Changelist" comment="" />
+      <created>1649508919854</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649508919854</updated>
+      <workItem from="1649508922475" duration="8067000" />
+      <workItem from="1649599654081" duration="749000" />
+      <workItem from="1649635121926" duration="10280000" />
+      <workItem from="1649671413592" duration="6702000" />
+      <workItem from="1649721810102" duration="5817000" />
+      <workItem from="1649809286885" duration="286000" />
+      <workItem from="1649809586363" duration="503000" />
+      <workItem from="1649810106516" duration="1094000" />
+      <workItem from="1649812103142" duration="2478000" />
+      <workItem from="1649817040495" duration="8899000" />
+      <workItem from="1649897231974" duration="2641000" />
+      <workItem from="1650180314030" duration="2454000" />
+      <workItem from="1650241627308" duration="816000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-119" y="0" key="#Project_Structure" timestamp="1649637740413">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-119" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1649637740413" />
+    <state x="496" y="47" key="FileChooserDialogImpl" timestamp="1650257355961">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="496" y="47" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1650257355961" />
+    <state x="311" y="62" key="GrepConsoleSettings" timestamp="1649816678551">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="311" y="62" key="GrepConsoleSettings/0.0.1536.824@0.0.1536.824" timestamp="1649816678551" />
+    <state width="1483" height="119" key="GridCell.Tab.0.bottom" timestamp="1649900493433">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="119" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1649900493433" />
+    <state width="1483" height="119" key="GridCell.Tab.0.center" timestamp="1649900493433">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="119" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1649900493433" />
+    <state width="1483" height="119" key="GridCell.Tab.0.left" timestamp="1649900493433">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="119" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1649900493433" />
+    <state width="1483" height="119" key="GridCell.Tab.0.right" timestamp="1649900493433">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="119" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1649900493433" />
+    <state width="1483" height="119" key="GridCell.Tab.1.bottom" timestamp="1649900493434">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="119" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1649900493434" />
+    <state width="1483" height="119" key="GridCell.Tab.1.center" timestamp="1649900493433">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="119" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1649900493433" />
+    <state width="1483" height="119" key="GridCell.Tab.1.left" timestamp="1649900493433">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="119" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1649900493433" />
+    <state width="1483" height="119" key="GridCell.Tab.1.right" timestamp="1649900493434">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="119" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1649900493434" />
+    <state width="1483" height="335" key="GridCell.Tab.2.bottom" timestamp="1649517874145">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="335" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1649517874145" />
+    <state width="1483" height="335" key="GridCell.Tab.2.center" timestamp="1649517874145">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="335" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1649517874145" />
+    <state width="1483" height="335" key="GridCell.Tab.2.left" timestamp="1649517874145">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="335" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1649517874145" />
+    <state width="1483" height="335" key="GridCell.Tab.2.right" timestamp="1649517874145">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="335" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1649517874145" />
+    <state x="304" y="47" key="NewModule_or_Project.wizard" timestamp="1649727334670">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="304" y="47" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1649727334670" />
+    <state x="240" y="0" key="SettingsEditor" timestamp="1649819332425">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="240" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1649819332425" />
+    <state x="0" y="0" key="new project wizard" timestamp="1649812161303">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1649812161303" />
+  </component>
+</project>
