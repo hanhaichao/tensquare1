@@ -3,8 +3,8 @@ server:
 spring:
   application:
     name: tensquare-sms
-  rabbitmq:
-    host: localhost
+  kafka:
+    bootstrap-servers: 192.168.68.129
 aliyun:
   sms:
     accessKeyId: LACI5FkGNRRKb1Rh5YgFuheB
